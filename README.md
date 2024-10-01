@@ -5,8 +5,6 @@ Repositório dedicado à turma 2TCNR do curso Cloud Developer - FIAP.
 1. [Criar Instância EC2 na AWS](#1-criar-instância-ec2-na-aws) ✅
 
 - curso-k8s
-- grupo de segurançao   : launch-wizard-5
-
 
 2. [Criar Chave SSH para Conexão](#2-criar-chave-ssh-para-conexão) ✅
 3. [Conectar na Instância via SSH](#3-conectar-na-instância-via-ssh) ✅
